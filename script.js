@@ -1,0 +1,1 @@
+console.log("I'm finally writing JS in the browswer!")
